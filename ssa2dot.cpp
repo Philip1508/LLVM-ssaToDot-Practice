@@ -1,4 +1,6 @@
 
+// Author Philip Kail
+
 //===-- HelloWorld.cpp - Example Transformations --------------------------===//
 //
 // Part of the LLVM Project, under the Apache License v2.0 with LLVM Exceptions.
